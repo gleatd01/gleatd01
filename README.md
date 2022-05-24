@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gleatd01
 - 👀 I’m interested in ...Python, MATLAB, JS, node.js, and data management
-- 🌱 I’m currently learning ... Python JS
-- 💞️ I’m looking to collaborate on ... JS
+- 🌱 I’m currently always learning ... Python & JS
+- 💞️ I’m looking to collaborate on ... Python & JS
 - 📫 How to reach me ... Discord GalaxyMule#5098
 
 <!---
